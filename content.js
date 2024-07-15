@@ -1,4 +1,4 @@
-const API_KEY = "b788ab0b2745932b0e9b5f8e04f52909";
+const API_KEY = "";
 const BASE_URL = "https://api.themoviedb.org/3/search/person?api_key=";
 
 console.log("Content script loaded");
